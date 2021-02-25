@@ -1,0 +1,22 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Site-Eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellitonSouza/Site-Eventos.git"
+  },
+  "author": "Welliton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellitonSouza/Site-Eventos/issues"
+  },
+  "homepage": "https://github.com/wellitonSouza/Site-Eventos#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
