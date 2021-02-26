@@ -4,6 +4,7 @@
   "description": "Site-Eventos",
   "main": "index.js",
   "scripts": {
+    "start": "npx live-server src/",
     "test": "src/index.html"
   },
   "repository": {
